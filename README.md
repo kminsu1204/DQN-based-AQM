@@ -7,7 +7,7 @@ The paper is available at:
 https://digital.library.ryerson.ca/islandora/object/RULA%3A8551
 
 ## Get Started
-It uses the below open sources:
+This work is based on the below open sources:
 1. ns-3: https://www.nsnam.org/
 2. tiny-dnn: https://github.com/tiny-dnn/tiny-dnn
 
