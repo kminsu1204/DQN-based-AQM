@@ -1,10 +1,7 @@
 # DQN-based-AQM
 This repository provides the code used in the following paper:
 
-Minsu Kim, "Deep Reinforcement Learning based Active Queue Management for IoT Networks," Master's Thesis at Ryerson Univesrity
-
-The paper is available at:
-https://digital.library.ryerson.ca/islandora/object/RULA%3A8551
+Kim, M., Jaseemuddin, M. & Anpalagan, A. Deep Reinforcement Learning Based Active Queue Management for IoT Networks. J Netw Syst Manage 29, 34 (2021). https://doi.org/10.1007/s10922-021-09603-x
 
 ## Get Started
 This work is based on the below open sources:
